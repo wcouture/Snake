@@ -1,0 +1,19 @@
+﻿  Apple.cpp
+c:\users\boxer\source\repos\snake\snake\apple.cpp(14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\boxer\source\repos\snake\snake\apple.cpp(15): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Head.cpp
+  main.cpp
+c:\users\boxer\source\repos\snake\snake\main.cpp(106): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Segment.cpp
+  Generating code
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> C:\Users\boxer\source\repos\Snake\x64\Release\Snake.exe

@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\boxer\source\repos\snake\snake\main.cpp(14): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\boxer\source\repos\snake\snake\main.cpp(15): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\boxer\source\repos\snake\snake\main.cpp(100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Snake.vcxproj -> C:\Users\boxer\source\repos\Snake\x64\Debug\Snake.exe
